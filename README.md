@@ -26,7 +26,9 @@ I analyzed the Kaggle Music Database by creating a structured SQL database with 
 To find the solutions, I wrote these queries. Kindly read that
 
 -<a href="https://github.com/AsheeshSinghrajput/Music-Data-Analysis-SQL/blob/main/Music_Store_database.sql">SQL-Database</a>
+
 -<a href="https://github.com/AsheeshSinghrajput/Music-Data-Analysis-SQL/blob/main/MusicDatabaseSchema.png">SQL-Schema</a>
+
 -<a href="https://github.com/AsheeshSinghrajput/Music-Data-Analysis-SQL/blob/main/Music%20data%20analysis.sql">SQL-Queries</a>
 
 
