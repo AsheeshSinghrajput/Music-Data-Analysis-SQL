@@ -21,3 +21,13 @@ I analyzed the Kaggle Music Database by creating a structured SQL database with 
 - Q1: Find the best-selling artist (in terms of total revenue). Then, for that artist, return each customer’s name and how much they spent on that artist.
 - Question 2. We want to find out the most popular music genre for each country.We determine the most popular genre as the genre with the highest amount purchase .Write a query that return each country along with  the top genre.for the countries where the maximum number of purchases is share return all genres.
 - Question 3. Write a query that determines the Customer that has spend the most on music for each Country.Write a query that return the Country along with the top customer and how much they spent.For countries where the amount spend in shared, provide all customers who spend this amount.
+
+## Solutions 
+To find the solutions, I wrote these queries. Kindly read that
+
+-<a href="https://github.com/AsheeshSinghrajput/Music-Data-Analysis-SQL/blob/main/Music_Store_database.sql">SQL-Database</a>
+-<a href="https://github.com/AsheeshSinghrajput/Music-Data-Analysis-SQL/blob/main/MusicDatabaseSchema.png">SQL-Schema</a>
+-<a href="https://github.com/AsheeshSinghrajput/Music-Data-Analysis-SQL/blob/main/Music%20data%20analysis.sql">SQL-Queries</a>
+
+
+
