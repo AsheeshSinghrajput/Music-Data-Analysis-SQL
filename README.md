@@ -31,5 +31,10 @@ To find the solutions, I wrote these queries. Kindly read that
 
 -<a href="https://github.com/AsheeshSinghrajput/Music-Data-Analysis-SQL/blob/main/Music%20data%20analysis.sql">SQL-Queries</a>
 
+## Work Sample
+
+<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/53137677-e306-404c-a948-a80992e23c6c" />
+
+
 
 
